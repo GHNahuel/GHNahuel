@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignacio Nahuel</h1>
-<h3 align="center">"Uruguayo radicado en España, explorando el fascinante mundo de las tecnologías con entusiasmo y dedicación. Siempre listo para aprender y colaborar.</h3>
+<h3 align="center">"Uruguayo en España, explorando el fascinante mundo de las tecnologías con entusiasmo y dedicación. Siempre listo para aprender y colaborar.</h3>
 
 - 📫 How to reach me **nahuelfernandez7@hotmail.com**
 
